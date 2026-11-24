@@ -1,0 +1,9 @@
+baseURL = 'https://kotiaeion2512.github.io/'
+languageCode = 'en-us'
+title = 'Security Notes & Write-ups'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
